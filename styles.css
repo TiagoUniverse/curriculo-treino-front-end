@@ -1,0 +1,21 @@
+h1{
+    /* background-color: red; */
+}
+
+body{
+    font-family: sans-serif;
+    background-color: rgb(165, 202, 235);
+}
+
+main{
+    background-color: rgb(96, 166, 228);
+    text-align: center;
+    width: 500px;
+    margin: 5cm auto;
+    padding: 1mm 0;
+}
+
+main ul li{
+    text-align: left;
+}
+
